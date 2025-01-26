@@ -1,0 +1,7 @@
+ID del Turno: 1
+Fecha: 2024-08-08
+Hora: 02:30
+Medico: carlos antonio manchado (Doctor General)
+Paciente: maria hernandez (Edad: 71)
+Estado: pendiente
+
